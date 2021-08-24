@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Devisi5.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>e60055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>800055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>e60055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>800055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>e67f00ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>807f00ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>e67f00ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>807f00ff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Devisi 5</name>
+		<open>1</open>
+		<Placemark>
+			<name>Devisi V - 1987</name>
+			<open>1</open>
+			<description>Devisi V - Tanaman Menghasilkan (1987)</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							100.6206640211943,1.654335569980321,0 100.6207642401001,1.645106194078567,0 100.6290419358365,1.645185292921048,0 100.6290255124687,1.635937616234279,0 100.6400046385053,1.636022385968176,0 100.6399429799269,1.645273632980666,0 100.6427072798316,1.645242691433207,0 100.6426702578506,1.636061266422753,0 100.6537647805815,1.636210307785937,0 100.6538979972566,1.654434782114278,0 100.6206640211943,1.654335569980321,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Devisi V - 1988</name>
+			<open>1</open>
+			<description>Devisi V - Tanaman Menghasilkan (1988)</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							100.6207335827478,1.645129551637146,0 100.6208383056528,1.626796786750944,0 100.6537933519191,1.627212751398912,0 100.6537727226458,1.636201955968501,0 100.6426659335247,1.636029899998675,0 100.6426835788504,1.64526729537023,0 100.6399803110185,1.645248402169442,0 100.6399929052741,1.636054632497243,0 100.6290025580173,1.635956809169601,0 100.6290062116761,1.645210232636619,0 100.6262944952626,1.645142248127658,0 100.6207335827478,1.645129551637146,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
